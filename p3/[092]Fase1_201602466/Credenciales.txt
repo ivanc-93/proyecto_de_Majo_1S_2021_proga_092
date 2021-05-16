@@ -1,0 +1,8 @@
+Credenciales: 
+
+1. Administrador
+	Usuario: admin
+	Contraseña: admin
+2. Empleado operacional 
+	Usuario: empleado
+	Contraseña: empleado

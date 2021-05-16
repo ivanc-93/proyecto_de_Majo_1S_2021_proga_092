@@ -1,0 +1,43 @@
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.exe.config
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.exe
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.pdb
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.xml
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.vbprojAssemblyReference.cache
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.Form1.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.administradores.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.Resources.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.vbproj.GenerateResource.cache
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.exe
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.xml
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.pdb
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.reportes.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevoproducto.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevoempleado.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.cambiocontraseña.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.listaclientes.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.operacionalcontraseña.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.operacionales.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevocliente.resources
+C:\Users\Informatica\source\repos\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.ventas.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.exe.config
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.exe
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.pdb
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\bin\Debug\Fase1_201602466.xml
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.vbprojAssemblyReference.cache
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.cambiocontraseña.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.Form1.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.administradores.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.listaclientes.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.Resources.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevocliente.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevoempleado.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.nuevoproducto.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.operacionalcontraseña.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.operacionales.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.reportes.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.ventas.resources
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.vbproj.GenerateResource.cache
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.exe
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.xml
+C:\Users\Ivan Ujla\Desktop\p3\[092]Fase1_201602466\Fase1_201602466\Fase1_201602466\obj\Debug\Fase1_201602466.pdb

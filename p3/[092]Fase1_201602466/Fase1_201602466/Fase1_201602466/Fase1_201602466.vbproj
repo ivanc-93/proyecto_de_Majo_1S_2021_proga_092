@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01BEA75C-2926-4E6B-AA93-1D59E86F197A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Fase1_201602466.My.MyApplication</StartupObject>
+    <RootNamespace>Fase1_201602466</RootNamespace>
+    <AssemblyName>Fase1_201602466</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Fase1_201602466.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Fase1_201602466.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cambiocontraseña.Designer.vb">
+      <DependentUpon>cambiocontraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cambiocontraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listaclientes.Designer.vb">
+      <DependentUpon>listaclientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="listaclientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="nuevocliente.Designer.vb">
+      <DependentUpon>nuevocliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nuevocliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevoempleado.Designer.vb">
+      <DependentUpon>nuevoempleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoempleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevoproducto.Designer.vb">
+      <DependentUpon>nuevoproducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoproducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="operacionalcontraseña.Designer.vb">
+      <DependentUpon>operacionalcontraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="operacionalcontraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="operacionales.Designer.vb">
+      <DependentUpon>operacionales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="operacionales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes.Designer.vb">
+      <DependentUpon>reportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventas.Designer.vb">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cambiocontraseña.resx">
+      <DependentUpon>cambiocontraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listaclientes.resx">
+      <DependentUpon>listaclientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevocliente.resx">
+      <DependentUpon>nuevocliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevoempleado.resx">
+      <DependentUpon>nuevoempleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevoproducto.resx">
+      <DependentUpon>nuevoproducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="operacionalcontraseña.resx">
+      <DependentUpon>operacionalcontraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="operacionales.resx">
+      <DependentUpon>operacionales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes.resx">
+      <DependentUpon>reportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventas.resx">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
